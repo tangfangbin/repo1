@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
- printf(ÎéÎíhello world!\nÎéÎí);
+ printf("Version: 0.01\n");
+ printf("Hello world!\n");
  return 0;
 }
 
